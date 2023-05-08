@@ -1,6 +1,7 @@
 "# devrev_task" 
 "# devrev_task" 
 
+Hosted at : https://aakhiladevrev123.000webhostapp.com/view_flights.php
 
 
 DATABASE NAME = flight_booking
